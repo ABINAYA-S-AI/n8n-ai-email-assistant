@@ -18,3 +18,4 @@ This project automates email replies using n8n, Gmail, and Groq AI.
 Gmail Trigger → AI Agent → send  Message
 
 ## Author
+Abinaya
